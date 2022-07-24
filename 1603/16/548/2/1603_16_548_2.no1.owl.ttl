@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:1> ;
     skos:prefLabel "Gaua"@eng-Latn ;
-    wdata:q7200235 "VU01053" ;
+    wdata:Q7200235 "VU01053" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -112,7 +112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:1> ;
     skos:prefLabel "Vanua Lava"@eng-Latn ;
-    wdata:q7200235 "VU01054" ;
+    wdata:Q7200235 "VU01054" ;
 .
 
 <urn:mdciii:1603:16:548:2:1055>
@@ -124,7 +124,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:1> ;
     skos:prefLabel "Torres"@eng-Latn ;
-    wdata:q7200235 "VU01055" ;
+    wdata:Q7200235 "VU01055" ;
 .
 
 <urn:mdciii:1603:16:548:2:1063>
@@ -136,7 +136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:1> ;
     skos:prefLabel "Motalava"@eng-Latn ;
-    wdata:q7200235 "VU01063" ;
+    wdata:Q7200235 "VU01063" ;
 .
 
 <urn:mdciii:1603:16:548:2:1064>
@@ -148,7 +148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:1> ;
     skos:prefLabel "Mota"@eng-Latn ;
-    wdata:q7200235 "VU01064" ;
+    wdata:Q7200235 "VU01064" ;
 .
 
 <urn:mdciii:1603:16:548:2:1065>
@@ -160,7 +160,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:1> ;
     skos:prefLabel "Merelava"@eng-Latn ;
-    wdata:q7200235 "VU01065" ;
+    wdata:Q7200235 "VU01065" ;
 .
 
 <urn:mdciii:1603:16:548:2:1066>
@@ -172,7 +172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:1> ;
     skos:prefLabel "Ureparapara"@eng-Latn ;
-    wdata:q7200235 "VU01066" ;
+    wdata:Q7200235 "VU01066" ;
 .
 
 <urn:mdciii:1603:16:548:2:2001>
@@ -184,7 +184,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "Luganville"@eng-Latn ;
-    wdata:q7200235 "VU02001" ;
+    wdata:Q7200235 "VU02001" ;
 .
 
 <urn:mdciii:1603:16:548:2:2042>
@@ -196,7 +196,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "East Malo"@eng-Latn ;
-    wdata:q7200235 "VU02042" ;
+    wdata:Q7200235 "VU02042" ;
 .
 
 <urn:mdciii:1603:16:548:2:2043>
@@ -208,7 +208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "West Malo"@eng-Latn ;
-    wdata:q7200235 "VU02043" ;
+    wdata:Q7200235 "VU02043" ;
 .
 
 <urn:mdciii:1603:16:548:2:2044>
@@ -220,7 +220,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "North West Santo"@eng-Latn ;
-    wdata:q7200235 "VU02044" ;
+    wdata:Q7200235 "VU02044" ;
 .
 
 <urn:mdciii:1603:16:548:2:2045>
@@ -232,7 +232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "South Santo"@eng-Latn ;
-    wdata:q7200235 "VU02045" ;
+    wdata:Q7200235 "VU02045" ;
 .
 
 <urn:mdciii:1603:16:548:2:2046>
@@ -244,7 +244,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "South East Santo"@eng-Latn ;
-    wdata:q7200235 "VU02046" ;
+    wdata:Q7200235 "VU02046" ;
 .
 
 <urn:mdciii:1603:16:548:2:2047>
@@ -256,7 +256,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "North Santo"@eng-Latn ;
-    wdata:q7200235 "VU02047" ;
+    wdata:Q7200235 "VU02047" ;
 .
 
 <urn:mdciii:1603:16:548:2:2048>
@@ -268,7 +268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "West Santo"@eng-Latn ;
-    wdata:q7200235 "VU02048" ;
+    wdata:Q7200235 "VU02048" ;
 .
 
 <urn:mdciii:1603:16:548:2:2056>
@@ -280,7 +280,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "East Santo"@eng-Latn ;
-    wdata:q7200235 "VU02056" ;
+    wdata:Q7200235 "VU02056" ;
 .
 
 <urn:mdciii:1603:16:548:2:2061>
@@ -292,7 +292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:2> ;
     skos:prefLabel "Canal - Fanafo"@eng-Latn ;
-    wdata:q7200235 "VU02061" ;
+    wdata:Q7200235 "VU02061" ;
 .
 
 <urn:mdciii:1603:16:548:2:3014>
@@ -304,7 +304,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "North Maewo"@eng-Latn ;
-    wdata:q7200235 "VU03014" ;
+    wdata:Q7200235 "VU03014" ;
 .
 
 <urn:mdciii:1603:16:548:2:3015>
@@ -316,7 +316,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "South Maewo"@eng-Latn ;
-    wdata:q7200235 "VU03015" ;
+    wdata:Q7200235 "VU03015" ;
 .
 
 <urn:mdciii:1603:16:548:2:3016>
@@ -328,7 +328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "South Pentecost"@eng-Latn ;
-    wdata:q7200235 "VU03016" ;
+    wdata:Q7200235 "VU03016" ;
 .
 
 <urn:mdciii:1603:16:548:2:3017>
@@ -340,7 +340,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "North Pentecost"@eng-Latn ;
-    wdata:q7200235 "VU03017" ;
+    wdata:Q7200235 "VU03017" ;
 .
 
 <urn:mdciii:1603:16:548:2:3018>
@@ -352,7 +352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "Central Pentecost 2"@eng-Latn ;
-    wdata:q7200235 "VU03018" ;
+    wdata:Q7200235 "VU03018" ;
 .
 
 <urn:mdciii:1603:16:548:2:3049>
@@ -364,7 +364,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "South Ambae"@eng-Latn ;
-    wdata:q7200235 "VU03049" ;
+    wdata:Q7200235 "VU03049" ;
 .
 
 <urn:mdciii:1603:16:548:2:3050>
@@ -376,7 +376,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "North Ambae"@eng-Latn ;
-    wdata:q7200235 "VU03050" ;
+    wdata:Q7200235 "VU03050" ;
 .
 
 <urn:mdciii:1603:16:548:2:3051>
@@ -388,7 +388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "East Ambae"@eng-Latn ;
-    wdata:q7200235 "VU03051" ;
+    wdata:Q7200235 "VU03051" ;
 .
 
 <urn:mdciii:1603:16:548:2:3052>
@@ -400,7 +400,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "West Ambae"@eng-Latn ;
-    wdata:q7200235 "VU03052" ;
+    wdata:Q7200235 "VU03052" ;
 .
 
 <urn:mdciii:1603:16:548:2:3060>
@@ -412,7 +412,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:3> ;
     skos:prefLabel "Central Pentecost 1"@eng-Latn ;
-    wdata:q7200235 "VU03060" ;
+    wdata:Q7200235 "VU03060" ;
 .
 
 <urn:mdciii:1603:16:548:2:4006>
@@ -424,7 +424,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "North West Malekula"@eng-Latn ;
-    wdata:q7200235 "VU04006" ;
+    wdata:Q7200235 "VU04006" ;
 .
 
 <urn:mdciii:1603:16:548:2:4007>
@@ -436,7 +436,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "North East Malekula"@eng-Latn ;
-    wdata:q7200235 "VU04007" ;
+    wdata:Q7200235 "VU04007" ;
 .
 
 <urn:mdciii:1603:16:548:2:4008>
@@ -448,7 +448,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "Central Malekula"@eng-Latn ;
-    wdata:q7200235 "VU04008" ;
+    wdata:Q7200235 "VU04008" ;
 .
 
 <urn:mdciii:1603:16:548:2:4009>
@@ -460,7 +460,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "South East Malekula"@eng-Latn ;
-    wdata:q7200235 "VU04009" ;
+    wdata:Q7200235 "VU04009" ;
 .
 
 <urn:mdciii:1603:16:548:2:4010>
@@ -472,7 +472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "West Ambrym"@eng-Latn ;
-    wdata:q7200235 "VU04010" ;
+    wdata:Q7200235 "VU04010" ;
 .
 
 <urn:mdciii:1603:16:548:2:4011>
@@ -484,7 +484,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "North Ambrym"@eng-Latn ;
-    wdata:q7200235 "VU04011" ;
+    wdata:Q7200235 "VU04011" ;
 .
 
 <urn:mdciii:1603:16:548:2:4012>
@@ -496,7 +496,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "South East Ambrym"@eng-Latn ;
-    wdata:q7200235 "VU04012" ;
+    wdata:Q7200235 "VU04012" ;
 .
 
 <urn:mdciii:1603:16:548:2:4013>
@@ -508,7 +508,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "Paama"@eng-Latn ;
-    wdata:q7200235 "VU04013" ;
+    wdata:Q7200235 "VU04013" ;
 .
 
 <urn:mdciii:1603:16:548:2:4058>
@@ -520,7 +520,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "South Malekula"@eng-Latn ;
-    wdata:q7200235 "VU04058" ;
+    wdata:Q7200235 "VU04058" ;
 .
 
 <urn:mdciii:1603:16:548:2:4059>
@@ -532,7 +532,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:4> ;
     skos:prefLabel "South West Malekula"@eng-Latn ;
-    wdata:q7200235 "VU04059" ;
+    wdata:Q7200235 "VU04059" ;
 .
 
 <urn:mdciii:1603:16:548:2:5002>
@@ -544,7 +544,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Port Vila"@eng-Latn ;
-    wdata:q7200235 "VU05002" ;
+    wdata:Q7200235 "VU05002" ;
 .
 
 <urn:mdciii:1603:16:548:2:5003>
@@ -556,7 +556,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Eratap"@eng-Latn ;
-    wdata:q7200235 "VU05003" ;
+    wdata:Q7200235 "VU05003" ;
 .
 
 <urn:mdciii:1603:16:548:2:5027>
@@ -568,7 +568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "South Epi"@eng-Latn ;
-    wdata:q7200235 "VU05027" ;
+    wdata:Q7200235 "VU05027" ;
 .
 
 <urn:mdciii:1603:16:548:2:5028>
@@ -580,7 +580,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Vermaul"@eng-Latn ;
-    wdata:q7200235 "VU05028" ;
+    wdata:Q7200235 "VU05028" ;
 .
 
 <urn:mdciii:1603:16:548:2:5029>
@@ -592,7 +592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Vermali"@eng-Latn ;
-    wdata:q7200235 "VU05029" ;
+    wdata:Q7200235 "VU05029" ;
 .
 
 <urn:mdciii:1603:16:548:2:5030>
@@ -604,7 +604,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Varisu"@eng-Latn ;
-    wdata:q7200235 "VU05030" ;
+    wdata:Q7200235 "VU05030" ;
 .
 
 <urn:mdciii:1603:16:548:2:5031>
@@ -616,7 +616,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "North Tongoa"@eng-Latn ;
-    wdata:q7200235 "VU05031" ;
+    wdata:Q7200235 "VU05031" ;
 .
 
 <urn:mdciii:1603:16:548:2:5032>
@@ -628,7 +628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Tongariki"@eng-Latn ;
-    wdata:q7200235 "VU05032" ;
+    wdata:Q7200235 "VU05032" ;
 .
 
 <urn:mdciii:1603:16:548:2:5033>
@@ -640,7 +640,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Makimae"@eng-Latn ;
-    wdata:q7200235 "VU05033" ;
+    wdata:Q7200235 "VU05033" ;
 .
 
 <urn:mdciii:1603:16:548:2:5034>
@@ -652,7 +652,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Emau"@eng-Latn ;
-    wdata:q7200235 "VU05034" ;
+    wdata:Q7200235 "VU05034" ;
 .
 
 <urn:mdciii:1603:16:548:2:5035>
@@ -664,7 +664,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "North Efate"@eng-Latn ;
-    wdata:q7200235 "VU05035" ;
+    wdata:Q7200235 "VU05035" ;
 .
 
 <urn:mdciii:1603:16:548:2:5036>
@@ -676,7 +676,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Nguna"@eng-Latn ;
-    wdata:q7200235 "VU05036" ;
+    wdata:Q7200235 "VU05036" ;
 .
 
 <urn:mdciii:1603:16:548:2:5037>
@@ -688,7 +688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Eton"@eng-Latn ;
-    wdata:q7200235 "VU05037" ;
+    wdata:Q7200235 "VU05037" ;
 .
 
 <urn:mdciii:1603:16:548:2:5038>
@@ -700,7 +700,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Pango"@eng-Latn ;
-    wdata:q7200235 "VU05038" ;
+    wdata:Q7200235 "VU05038" ;
 .
 
 <urn:mdciii:1603:16:548:2:5039>
@@ -712,7 +712,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Ifira"@eng-Latn ;
-    wdata:q7200235 "VU05039" ;
+    wdata:Q7200235 "VU05039" ;
 .
 
 <urn:mdciii:1603:16:548:2:5040>
@@ -724,7 +724,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Erakor"@eng-Latn ;
-    wdata:q7200235 "VU05040" ;
+    wdata:Q7200235 "VU05040" ;
 .
 
 <urn:mdciii:1603:16:548:2:5041>
@@ -736,7 +736,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Malorua"@eng-Latn ;
-    wdata:q7200235 "VU05041" ;
+    wdata:Q7200235 "VU05041" ;
 .
 
 <urn:mdciii:1603:16:548:2:5057>
@@ -748,7 +748,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:5> ;
     skos:prefLabel "Mele"@eng-Latn ;
-    wdata:q7200235 "VU05057" ;
+    wdata:Q7200235 "VU05057" ;
 .
 
 <urn:mdciii:1603:16:548:2:6004>
@@ -760,7 +760,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "Futuna"@eng-Latn ;
-    wdata:q7200235 "VU06004" ;
+    wdata:Q7200235 "VU06004" ;
 .
 
 <urn:mdciii:1603:16:548:2:6005>
@@ -772,7 +772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "Aniwa"@eng-Latn ;
-    wdata:q7200235 "VU06005" ;
+    wdata:Q7200235 "VU06005" ;
 .
 
 <urn:mdciii:1603:16:548:2:6019>
@@ -784,7 +784,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "North Erromango"@eng-Latn ;
-    wdata:q7200235 "VU06019" ;
+    wdata:Q7200235 "VU06019" ;
 .
 
 <urn:mdciii:1603:16:548:2:6020>
@@ -796,7 +796,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "South Erromango"@eng-Latn ;
-    wdata:q7200235 "VU06020" ;
+    wdata:Q7200235 "VU06020" ;
 .
 
 <urn:mdciii:1603:16:548:2:6021>
@@ -808,7 +808,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "Aneityum"@eng-Latn ;
-    wdata:q7200235 "VU06021" ;
+    wdata:Q7200235 "VU06021" ;
 .
 
 <urn:mdciii:1603:16:548:2:6022>
@@ -820,7 +820,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "South Tanna"@eng-Latn ;
-    wdata:q7200235 "VU06022" ;
+    wdata:Q7200235 "VU06022" ;
 .
 
 <urn:mdciii:1603:16:548:2:6023>
@@ -832,7 +832,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "South West Tanna"@eng-Latn ;
-    wdata:q7200235 "VU06023" ;
+    wdata:Q7200235 "VU06023" ;
 .
 
 <urn:mdciii:1603:16:548:2:6024>
@@ -844,7 +844,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "Whitesands"@eng-Latn ;
-    wdata:q7200235 "VU06024" ;
+    wdata:Q7200235 "VU06024" ;
 .
 
 <urn:mdciii:1603:16:548:2:6025>
@@ -856,7 +856,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "West Tanna"@eng-Latn ;
-    wdata:q7200235 "VU06025" ;
+    wdata:Q7200235 "VU06025" ;
 .
 
 <urn:mdciii:1603:16:548:2:6026>
@@ -868,7 +868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "North Tanna"@eng-Latn ;
-    wdata:q7200235 "VU06026" ;
+    wdata:Q7200235 "VU06026" ;
 .
 
 <urn:mdciii:1603:16:548:2:6062>
@@ -880,6 +880,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:548:1:6> ;
     skos:prefLabel "Middle Bush Tanna"@eng-Latn ;
-    wdata:q7200235 "VU06062" ;
+    wdata:Q7200235 "VU06062" ;
 .
 

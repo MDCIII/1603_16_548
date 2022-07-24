@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:548:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:0> ;
     skos:prefLabel "Torba"@eng-Latn ;
-    wdata:q7200235 "VU01" ;
+    wdata:Q7200235 "VU01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -50,7 +50,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:548:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:0> ;
     skos:prefLabel "Sanma"@eng-Latn ;
-    wdata:q7200235 "VU02" ;
+    wdata:Q7200235 "VU02" ;
 .
 
 <urn:mdciii:1603:16:548:1:3>
@@ -61,7 +61,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:548:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:0> ;
     skos:prefLabel "Penama"@eng-Latn ;
-    wdata:q7200235 "VU03" ;
+    wdata:Q7200235 "VU03" ;
 .
 
 <urn:mdciii:1603:16:548:1:4>
@@ -72,7 +72,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:548:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:0> ;
     skos:prefLabel "Malampa"@eng-Latn ;
-    wdata:q7200235 "VU04" ;
+    wdata:Q7200235 "VU04" ;
 .
 
 <urn:mdciii:1603:16:548:1:5>
@@ -83,7 +83,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:548:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:0> ;
     skos:prefLabel "Shefa"@eng-Latn ;
-    wdata:q7200235 "VU05" ;
+    wdata:Q7200235 "VU05" ;
 .
 
 <urn:mdciii:1603:16:548:1:6>
@@ -94,6 +94,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:548:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:548:0> ;
     skos:prefLabel "Tafea"@eng-Latn ;
-    wdata:q7200235 "VU06" ;
+    wdata:Q7200235 "VU06" ;
 .
 
